@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Front End - My Brand_ IFeza</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="dashboard_container">
+        <nav class="dashboard_nav">
+            <img src="./Images/logo.png" alt="Admin Dashboard logo" class="dashboard_logo">
+            <div class="dashboard_navbar">
+                <div class="footer_content color">
+                    <img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px">
+                    <p>Dashboard</p>
+                </div>
+                <div class="footer_content color">
+                    <img src="/Images/Report_Icon-removebg-preview.png" alt="" class="dash-img" height="40px" width="30px">
+                    <p>Customers</p>
+                </div>
+                <div class="footer_content color">
+                    <img src="/Images/Comments-removebg-preview.png" alt="" class="dash-img" height="40px" width="30px">
+                    <p>Portifolio</p>
+                </div>
+                <div class="footer_content color">
+                    <img src="/Images/clients-removebg-preview.png" alt="" class="dash-img" height="40px" width="30px">
+                    <p>Blogs</p>
+                </div>
+                <div class="footer_content color">
+                    <img src="/Images/Blog-removebg-preview.png" alt="" class="dash-img" height="40px" width="30px">
+                    <p>Reports</p>
+                </div>
+                <div class="footer_content color">
+                    <img src="/Images/Portifolio-removebg-preview.png" alt="" class="dash-img" height="40px" width="30px">
+                    <p>Chat</p>
+                </div>
+                
+                
+            </div>
+            <div class="dashboard_footer">
+                <div class="line"></div>
+                <div class="footer_content color f_special">
+                    <img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px">
+                    <p>Help ?</p>
+                </div>
+                
+            </div>
+        </nav>
+        <div class="dashboard_home">
+            <div class="dashboard-col1">
+                <div class="col1_nav">
+                   <a href="index.html" <h1>HOME</h1> </a>
+                </div>
+                <div class="col1_main">
+                    <h2>ADMIN PROFILE</h2>
+                    <img src="/Images/WhatsApp Image 2022-10-13 at 10.48.47 PM.jpeg" alt="" height="200px" width="200px">
+                    <div class="col1_main_content">
+                        <p>Names: <span>Feza Aline Iradukunda</span></p>
+                        <p>Email: <span>ifezaaline@gmail.com</span></p>
+                        <p>contact: <span>+250780155119</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="dashboard-col2">
+                <div class="col2_nav">
+                    <div class="footer_content navigation">
+                        <img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px">
+                        <p>Edit Page</p>
+                    </div>
+                    <div class="col2_main">
+                        <div class="footer_content report">
+                            <img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px">
+                            <p>REPORTS</p>
+                        </div>
+                        <div class="footer_content main_footer">
+                            <img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px">
+                            <p>7,498 Likes</p>
+                        </div>
+                        <div class="footer_content main_footer">
+                            <img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px">
+                            <p>570 comments</p>
+                        </div>
+                        <div class="footer_content main_footer">
+                            <img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px">
+                            <p>3,599 Subscribers</p>
+                        </div>
+                        <div class="footer_content main_footer">
+                            <img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px">
+                            <p>30 Posts</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
