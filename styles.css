@@ -284,6 +284,55 @@
     width: 80px;
 }
 /* THE END OF THE STYLING OF THE NAVIGATION BAR */
+/* BEGINNING OF THE STYLING OF THE CLIENTS MAIN SECTION */
+
+
+.dashboard-client{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+    /* justify-content: space-evenly; */
+}
+.client_nav{
+    margin-bottom: 30px;
+}
+.clients_main{
+    border: 2px solid #191919;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 100%;
+    border-radius: 6px;
+
+}
+.clients_heading{
+    width: 100%;
+    padding: 10px 3px;
+    margin-bottom: 4px;
+    border-radius: 8px;
+    background: #0151cc;
+    border: 1px solid #3474e6;
+}
+.clients_heading ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: auto;
+}
+.clients_heading ul li{
+    list-style: none;
+}
+.border::before,.Status::before{
+    content: "";
+    display: inline;
+    border-left: 1px solid black;
+    /* height: 100px; */
+    margin-right: 10px;
+}
+
+/* THE END OF THE STYLING OF THE CLIENTS MAIN SECTION */
 
 /* BEGINNING OF HERO SECTION STYLING */
 span{
