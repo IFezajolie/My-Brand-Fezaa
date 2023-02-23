@@ -333,6 +333,120 @@
 }
 
 /* THE END OF THE STYLING OF THE CLIENTS MAIN SECTION */
+/* THE BEGINNING OF THE STYLING OF THE CHAT SECTION */
+.chat_main_classes{
+    border: 1px solid red;
+    width: 100%;
+    padding: 10px 3px;
+    margin-bottom: 4px;
+    border-radius: 8px;
+    background: #0151cc;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* position: relative; */
+    margin-top: 30px;
+}
+.left_border{
+    border-left: 1px solid black;
+    display: block;
+    /* margin-right: 10px; */
+    height: 40px;
+    /* position: absolute; */
+}
+.f_chat{
+    width: 25%;
+    height: 80px;
+    text-align: center;
+}
+.c_chat{
+    width: 25%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.fourth_chat{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+}
+.first_chat{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+}
+/* THE END OF THE STYLING OF THE CHAT SECTION */
+/* THE BEGINNING OF THE STYLING OF THE NEW ARTICLE SECTION */
+.new_article{
+    
+}
+/* THE END OF THE STYLING OF THE NEW ARTICLE SECTION */
+/* THE BEGINNING OF DASHBOARD PORTIFOLIO SECTION */
+.portifolio_buttons{
+    display: flex;
+    flex-direction: column;
+}
+.articles_footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.articles_footer a{
+    text-decoration: none;
+    color: black;
+}
+.articles_section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.article_section_container{
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.article_section_one{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 150px;
+}
+.article_section_two{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+.article_dash{
+    border: 2px solid green;
+    padding: 6px 50px;
+    border-radius: 20px;
+    margin-top: 40px;
+    line-height: 30px;
+    letter-spacing: 3px;
+}
+.short{
+    font-size: 10px;
+}
+.email{
+    text-align: center;
+}
+.client_img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+/* THE END OF DASHBOARD PORTIFOLIO SECTION */
 
 /* BEGINNING OF HERO SECTION STYLING */
 span{
@@ -1089,20 +1203,52 @@ body {
     margin-top: 28px;
 }
 .article_new{
-    margin-top: 200px;
-    margin-left: 200px;
-    margin-right: 200px;
-    padding: 20px;
     border: #0151cc;
-    border-style: dashed;
-    max-width: 800px;
-/* }
-.contact-dash {
-
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
-.reports-dash {
-
-} */
-/* * {
-    background-color: #87CEEB;
-} */
+.article_new_content{
+    border: 2px solid red;
+    padding: 50px 200px;
+    position: relative;
+}
+.back_img{
+    bottom: 20px;
+    left: 20px;
+    position: absolute;
+}
+.article_form_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.article_form_section h1{
+    font-size: 60px;
+    opacity: .6;
+    margin-bottom: 30px;
+}
+.article_form_section form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* width: 500px; */
+}
+.article_form_section form label{
+    font-size: 20px;
+    margin-top: 15px;
+}
+.article_form_section form input{
+    padding: 5px 10px;
+    /* width: 100%; */
+}
+.article_form_section form textarea{
+    padding: 40px 5px;
+    /* width: 100%; */
+}
+a{
+    text-decoration: none;
+}
