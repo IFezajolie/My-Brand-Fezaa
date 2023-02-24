@@ -277,7 +277,8 @@
 }
 
 .btn {
-    margin-right: 100px;
+    margin-right: 245px;
+    margin-left: 245px;
 }
 .logo{
     cursor: pointer;
@@ -335,12 +336,12 @@
 /* THE END OF THE STYLING OF THE CLIENTS MAIN SECTION */
 /* THE BEGINNING OF THE STYLING OF THE CHAT SECTION */
 .chat_main_classes{
-    border: 1px solid red;
+    border: 1px solid #247e84;
     width: 100%;
     padding: 10px 3px;
     margin-bottom: 4px;
     border-radius: 8px;
-    background: #0151cc;
+    background: #32b0b986;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
