@@ -1214,7 +1214,7 @@ body {
     justify-content: center;
 }
 .article_new_content{
-    border: 2px solid red;
+    border: 2px solid rgb(13, 42, 128);
     padding: 50px 200px;
     position: relative;
 }
