@@ -1,46 +1,54 @@
 {
-    "Articles": [
-        {
-            "id": 1,
-            "title": "A deal for African ladies",
-            "author": "Feza Aline Jolie",
-            "date": "23/07/2002",
-            "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
-            "likes": 100 
-        },
-        {
-            "id": 2,
-            "title": "Young Women in Tech",
-            "author": "Feza Aline Jolie",
-            "date": "23/07/2002",
-            "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
-            "likes": 100 
-        },
-        {
-            "id": 3,
-            "title": "Solving real-life problems with tech, Rwanda",
-            "author": "Feza Aline Jolie",
-            "date": "23/07/2002",
-            "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
-            "likes": 100 
-        },
-        {
-            "id": 4,
-            "title": "How programming changed our lives",
-            "author": "Feza Aline Jolie",
-            "date": "23/07/2002",
-            "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
-            "likes": 100 
-        }
-    ],
-
-
-"polls": [
+  "Articles": [
     {
-        "id": 1,
-        "question": "Do you know how to do it?",
-        "answerA": "Yes",
-        "answerB": "No"
+      "id": 1,
+      "title": "A deal for African ladies",
+      "author": "Feza Aline Jolie",
+      "date": "23/07/2002",
+      "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
+      "likes": 100
+    },
+    {
+      "id": 2,
+      "title": "Young Women in Tech",
+      "author": "Feza Aline Jolie",
+      "date": "23/07/2002",
+      "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
+      "likes": 100
+    },
+    {
+      "id": 3,
+      "title": "Solving real-life problems with tech, Rwanda",
+      "author": "Feza Aline Jolie",
+      "date": "23/07/2002",
+      "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
+      "likes": 100
+    },
+    {
+      "id": 4,
+      "title": "How programming changed our lives",
+      "author": "Feza Aline Jolie",
+      "date": "23/07/2002",
+      "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
+      "likes": 100
+    },
+    {
+      "title": "kdhdlkd",
+      "body": "dsjffjk;jf",
+      "id": 5
+    },
+    {
+      "title": "The sweetest thing to do; CODING",
+      "body": "Enjoy",
+      "id": 6
     }
-]
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you know how to do it?",
+      "answerA": "Yes",
+      "answerB": "No"
+    }
+  ]
 }

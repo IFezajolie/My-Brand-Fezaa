@@ -3,7 +3,7 @@
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/styles.css">
     <title>JSON Server</title>
     </head>
 
@@ -15,15 +15,15 @@
                 </div>
                 <div class="article_form_section">
                     <h1>Create a new article</h1>
-                    <form action="http://127.0.0.1:5500/Dashport.html">
+                    <form id="myForm">
                         <label for="text">Article title</label>
-                        <input type="text" name="title" required placeholder="Article title" id="title">
+                        <input type="text" name="title" required placeholder="Article title" id="Title">
                         <label for="textarea">Article description</label>
-                        <textarea name="body" required placeholder="Blog body" id="body"></textarea>
+                        <textarea name="body" required placeholder="Blog body" id="Body"></textarea>
                         <!-- <label for="file">Select a file:</label>
-                        <input type="file" id="file" name="file"> -->
+                        <input type="file" id="file" name="file" type="submit" value="Upload"> -->
                         <!-- <input type="submit" value="Upload"> -->
-                        <button>Create New</button>
+                        <button type="submit" onclick="postBlog()">Create New</button>
                     
                     </form>
                    
