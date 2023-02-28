@@ -3,26 +3,26 @@
     {
       "id": 1,
       "title": "A deal for African ladies",
-      "author": "Feza Aline Jolie",
-      "date": "23/07/2002",
+      "author": "By Feza Aline Jolie",
+      "date": "On 23/07/2002",
       "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
-      "likes": 100
+      "likes": "100 likes"
     },
     {
       "id": 2,
       "title": "Young Women in Tech",
-      "author": "Feza Aline Jolie",
-      "date": "23/07/2002",
+      "author": "By Feza Aline Jolie",
+      "date": "On 23/07/2002",
       "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
-      "likes": 100
+      "likes": "100 likes"
     },
     {
       "id": 3,
       "title": "Solving real-life problems with tech, Rwanda",
-      "author": "Feza Aline Jolie",
-      "date": "23/07/2002",
+      "author": "By Feza Aline Jolie",
+      "date": "On 23/07/2002",
       "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
-      "likes": 100
+      "likes": "100 likes"
     },
     {
       "id": 4,
@@ -30,25 +30,32 @@
       "author": "Feza Aline Jolie",
       "date": "23/07/2002",
       "body": "In this century, we need to mobilize african ladies to be productive as much as they can. Long ago, ladies were underestimated in many cultures, but they's still show how variable they have always been. There are many development areas in which women can harness their talents and abilties to change the world.",
-      "likes": 100
+      "likes": "100 likes"
     },
     {
-      "title": "kdhdlkd",
-      "body": "dsjffjk;jf",
-      "id": 5
-    },
-    {
+      "id": 6,
       "title": "The sweetest thing to do; CODING",
       "body": "Enjoy",
-      "id": 6
+      "author": "Feza Aline Jolie",
+      "date": "23/07/2002",
+      "likes": "100 likes"
     }
   ],
-  "polls": [
+  "Blogs": [
     {
       "id": 1,
-      "question": "Do you know how to do it?",
-      "answerA": "Yes",
-      "answerB": "No"
+      "title": "Do you know how to do it?",
+      "Body": "If Yes, do it! If no, give it a try! You can do it!"
+    },
+    {
+      "id": 2,
+      "title": "The Code Magazine",
+      "Body": "Woman In Africa program"
+    },
+    {
+      "title": "Hello world",
+      "body": "This is me\nI am IFAJ",
+      "id": 3
     }
   ]
 }

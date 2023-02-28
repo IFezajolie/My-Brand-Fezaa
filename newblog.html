@@ -13,17 +13,17 @@
                 <div class="back_img">
                     <a href="DashBlogs.html"><img src="/Images/Admin_panel..-removebg-preview.png" alt="" class="dash-img" height="70px" width="30px"> </a>
                 </div>
-                <div class="article_form_section">
+                <div class="blog_form_section">
                     <h1>Create a new blog</h1>
-                    <form>
+                    <form id="myBlog">
                         <label for="text">Blog title</label>
-                        <input type="text" name="title" required placeholder="Article title">
+                        <input type="text" name="title" required placeholder="Blog title">
                         <label for="textarea">Description</label>
                         <textarea name="body" required placeholder="Blog body"></textarea>
-                        <label for="file">Select a file:</label>
-                        <input type="file" id="file" name="file">
+                        <!-- <label for="file">Select a file:</label>
+                        <input type="file" id="file" name="file"> -->
                         <!-- <input type="submit" value="Upload"> -->
-                        <button>Create New</button>
+                        <button type="submit" onclick="postBlog()">Create New</button>
                     </form>
                 </div>
             </div>
@@ -31,7 +31,7 @@
             
             
         </div>
-        <script src="create.js"></script>
+        <script src="JS_2/create_bl.js"></script>
 
     </body>
     </html>
