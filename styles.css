@@ -1254,3 +1254,13 @@ body {
 a{
     text-decoration: none;
 }
+/* READ MORE PAGE */
+.details{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.delete{
+    text-align: center;
+    margin: 20px;   
+}

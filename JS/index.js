@@ -15,7 +15,7 @@ const renderPosts = async () => {
         template += `
         <div class="article_dash">
         <p>${post.title}</p>
-        <a href="#">read more</a>
+        <a href="detail.html">read more</a>
     </div>
         `
     })
