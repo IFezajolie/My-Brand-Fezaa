@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 .end {
     background-color: #32B1B9;
 }
@@ -482,8 +483,11 @@ span{
     width: 100%;
     background-color: #87CEEB;
     background-size: cover;
-    background-position: center;
+    /* background-position: center; */
 }
+/* .hero h1{
+    display: inline-block;
+} */
 .main{
     width: 100%;
     margin: 0 auto;
@@ -495,6 +499,16 @@ span{
 }
 .My_profile {
     margin-left: 100px;
+    margin-right: 50px;
+    height: 300px;
+    margin-top: 50px;
+    border: #0a2751 solid 1px;
+}
+.My_profile:hover {
+    transform: scale(1.1);
+    border-radius: 50px;
+    border-color: #0c7a75;
+
 }
 .about-txt {
     margin-right: 100px;
@@ -848,7 +862,7 @@ footer{
     align-items: center;
     justify-content: space-between;
     margin: 0px auto;
-    position: absolute;
+    /* position: absolute; */
     bottom: 0px;
 }
 footer p{
@@ -942,11 +956,12 @@ footer p{
 
     /* THE BEGINNING OF THE RESPONSIVENESS OF THE HERO SECTION */
     .hero{
-        height: 80vh;
+        /* height: 80vh; */
         width: 100%;
         background-color: #87CEEB;
-        background-size: cover;
-        background-position: center;
+        /* background-size: cover;
+        background-position: center; */
+        display: flex;
         
     }
     .main{
@@ -958,12 +973,7 @@ footer p{
         overflow: scroll;
         position: relative;
     }
-    .My_profile {
-        margin-left: 50px;
-        margin-right: 50px;
-        height: 300px;
-        margin-top: 50px;
-    }
+    
     .about-txt {
         margin-right: 50px;
         margin-left: 50px;
